@@ -26,11 +26,11 @@ fi
 #
 # source includes
 #
-source "${_WRITER_SELF_PATH}writer-variables.bash"
-source "${_WRITER_SELF_PATH}writer-stdio.bash"
-source "${_WRITER_SELF_PATH}writer-status.bash"
-source "${_WRITER_SELF_PATH}writer-section.bash"
-source "${_WRITER_SELF_PATH}writer-definition.bash"
-source "${_WRITER_SELF_PATH}writer-cli.bash"
-source "${_WRITER_SELF_PATH}writer-program.bash"
-source "${_WRITER_SELF_PATH}writer-action.bash"
+source "${_WRITER_SELF_PATH}_writer-variables.bash"
+source "${_WRITER_SELF_PATH}_writer-stdio.bash"
+source "${_WRITER_SELF_PATH}_writer-status.bash"
+source "${_WRITER_SELF_PATH}_writer-section.bash"
+source "${_WRITER_SELF_PATH}_writer-definition.bash"
+source "${_WRITER_SELF_PATH}_writer-cli.bash"
+source "${_WRITER_SELF_PATH}_writer-program.bash"
+source "${_WRITER_SELF_PATH}_writer-action.bash"
